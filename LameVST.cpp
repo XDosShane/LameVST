@@ -7,7 +7,7 @@
 
 #define MIN_BITRATE (16)
 #define MAX_BITRATE (320)
-#define DEFAULT_BITRATE (128)
+#define DEFAULT_BITRATE (96)
 #define DEFAULT_MODE (0) // STEREO
 
 AudioEffect *createEffectInstance(audioMasterCallback audioMaster) {
